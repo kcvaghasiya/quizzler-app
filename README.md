@@ -35,6 +35,3 @@ A simple quiz application built with Tkinter and powered by a Trivia Question AP
   
   ```bash
   python main.py
-
-
-  
